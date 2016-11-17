@@ -20,21 +20,30 @@ h1{
 }
 
 div{
-    text-decoration:strike;
+  text-shadow: 5px 8px 10px #44001A;
 }
 
 .navzone{
-    background-color:red;
+  background-color:#F7B32B;
+  width: 300px;
 }
 
 .extreme{
-    font-size: 16px;
+  font-size: 30px;
 }
 
 .content{
-    font-style: oblique;
+  font-style:oblique;
 }
 
 .prose{
+  cursor:help;
+}
 
+#tehlulz{
+  text-transform: uppercase;
+}
+
+#head1{
+  text-align: right;
 }

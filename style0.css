@@ -7,7 +7,7 @@ h1{
 }
 
 h2{
-  background-color: red;
+  background-color: #D6C3C9;
   padding: 20px;
   margin: 40px;
 }
@@ -18,4 +18,32 @@ h3{
 
 ul{
   font-family: cursive;
+}
+
+div{
+  border-style:dotted;
+}
+
+.navzone{
+  border-style: none;
+}
+
+.extreme{
+  font-family:monospace;
+}
+
+.content{
+  text-indent: 20px;
+}
+
+.prose{
+  color: green;
+}
+
+#tehlulz{
+  visibility: hidden;
+}
+
+#head1{
+  border-radius: 4em;
 }
