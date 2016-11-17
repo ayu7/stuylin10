@@ -1,0 +1,20 @@
+html{
+  letter-spacing: 30px;
+  line-height: 40px;
+}
+
+li{
+  color: lightcoral;
+}
+
+a{
+  background-color:khaki;
+}
+
+a:hover{
+  color:plum;
+}
+
+h1{
+  font-family: fantasy;
+}
